@@ -1,0 +1,17 @@
+.container{
+    height: 1500px;
+    width: 1500px;
+    margin: 0 auto;
+}
+
+canvas{
+    border: darkgoldenrod 15px solid;
+    /*background-color: black;*/
+}
+
+#mainTankImage_up, #mainTankImage_down, #mainTankImage_left, #mainTankImage_right{
+    display :none;
+}
+.enemy{
+    display :none;
+}
